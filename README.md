@@ -14,4 +14,3 @@ Design a Polyline class to represent a geometric polyline. A polyline is made up
 The Polyline class will be used in a concurrent environment and as such the decision was taken to make it immutable.
 
 Design and implement a Polyline class ensuring that Polylines are immutable. Provide a method to add new Points to a Polyline.
-
