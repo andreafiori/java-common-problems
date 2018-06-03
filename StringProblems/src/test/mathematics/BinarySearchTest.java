@@ -1,8 +1,10 @@
-package math;
+package mathematics;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import mathematics.BinarySearch;
 
 class BinarySearchTest {
 

@@ -1,6 +1,12 @@
 package strings;
 
 public class ReverseString {
+	/**
+	 * Reverse a string
+	 * 
+	 * @param source
+	 * @return the reversed string
+	 */
 	public static String reverse(String source) {
 		if (source == null || source.isEmpty()) {
 			return source;
@@ -12,5 +18,24 @@ public class ReverseString {
 		}
 
 		return reverse;
+	}
+
+	/**
+	 * Replace a String in place
+	 * 
+	 * @param input
+	 * @return the reversed string
+	 */
+	public static String inPlaceReverse(final String input) {
+		final StringBuilder builder = new StringBuilder(input);
+		int length = builder.length();
+		for (int i = 0; i < length / 2; i++) {
+			final char current = builder.charAt(i);
+			final int otherEnd = length - i - 1;
+			builder.setCharAt(i, builder.charAt(otherEnd)); // swap
+			builder.setCharAt(otherEnd, current);
+		}
+
+		return builder.toString();
 	}
 }

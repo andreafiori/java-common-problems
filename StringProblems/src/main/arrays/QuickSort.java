@@ -16,13 +16,19 @@ class QuickSort {
 		if (numbers == null || numbers.length == 0) {
 			return;
 		}
+		
 		this.input = numbers;
+		
 		length = numbers.length;
+		
 		quickSort(0, length - 1);
 	}
 
-	/*
+	/**
 	 * This method implements in-place quicksort algorithm recursively.
+	 * 
+	 * @param low
+	 * @param high
 	 */
 	private void quickSort(int low, int high) {
 		int i = low;
@@ -63,9 +69,18 @@ class QuickSort {
 		}
 	}
 
-	private void swap(int i, int j) {
+	/**
+	 * Swap array elements
+	 * 
+	 * @param i
+	 * @param j
+	 * 
+	 * @return input
+	 */
+	private int[] swap(int i, int j) {
 		int temp = input[i];
 		input[i] = input[j];
 		input[j] = temp;
+		return input;
 	}
 }

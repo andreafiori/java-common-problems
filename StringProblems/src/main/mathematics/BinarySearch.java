@@ -1,4 +1,4 @@
-package math;
+package mathematics;
 
 /**
  * A binary search or half-interval search algorithm finds the position of a

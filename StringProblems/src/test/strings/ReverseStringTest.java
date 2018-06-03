@@ -12,5 +12,10 @@ class ReverseStringTest {
 	void testReverse() {
 		assertEquals(ReverseString.reverse("piano"), "onaip");
 	}
+	
+	@Test
+	void testInPlaceReverse() {
+		assertEquals(ReverseString.inPlaceReverse("1234"), "4321");
+	}
 
 }

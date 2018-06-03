@@ -28,7 +28,9 @@ public class BubbleSort {
 	/**
 	 * An improved implementation of Bubble Sort algorithm, which will only do 1
 	 * pass and n-1 comparison if array is already sorted.
-	 * @return 
+	 * 
+	 * @param names
+	 * @return
 	 */
 	public static String[] sortImproved(String[] names) {
 		boolean swapped = true;
@@ -51,7 +53,7 @@ public class BubbleSort {
 			// after each pass largest element moved to end of array
 			last--;
 		}
-		
+
 		return names;
 	}
 
@@ -67,11 +69,18 @@ public class BubbleSort {
 		array[from] = array[to];
 		array[to] = temp;
 	}
-	
+
+	/**
+	 * Swap strings in an array
+	 * 
+	 * @param names string
+	 * @param fromIdx int
+	 * @param toIdx int
+	 */
 	public static void swapStrings(String[] names, int fromIdx, int toIdx) {
-        String temp = names[fromIdx]; // exchange
-        names[fromIdx] = names[toIdx];
-        names[toIdx] = temp;
-    }
+		String temp = names[fromIdx]; // exchange
+		names[fromIdx] = names[toIdx];
+		names[toIdx] = temp;
+	}
 
 }

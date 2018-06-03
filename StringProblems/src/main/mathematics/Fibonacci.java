@@ -1,4 +1,4 @@
-package math;
+package mathematics;
 
 /**
  * Fibonacci numbers class.
