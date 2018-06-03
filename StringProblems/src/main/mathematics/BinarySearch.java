@@ -1,6 +1,8 @@
 package mathematics;
 
 /**
+ * Search a value in a list (array)
+ * 
  * A binary search or half-interval search algorithm finds the position of a
  * specified value (the input "key") within a sorted array. Binary search
  * requires a sorted collection. Also, binary searching can only be applied to a
