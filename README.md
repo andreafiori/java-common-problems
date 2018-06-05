@@ -1,7 +1,16 @@
 # Java problems and solutions
 
-This is NOT a complete list of solutions with all design patterns and implementations.
-Just only some problems and solutions with JUnit 5 tests.
+Problems and solutions with JUnit 4 tests and Ant.
+
+## Testing
+
+Run the build with Ant:
+
+	ant
+
+Or
+
+	ant run
 
 ## Data types and Data Structures
 
