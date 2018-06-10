@@ -1,5 +1,7 @@
 # Java problems and solutions
 
+[![Build Status](https://travis-ci.org/andreafiori/java-common-problems.svg?branch=master)](https://travis-ci.org/andreafiori/java-common-problems)
+
 Problems and solutions with JUnit 4 tests and Ant.
 
 ## Testing

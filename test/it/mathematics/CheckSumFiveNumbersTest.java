@@ -6,8 +6,6 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-import it.mathematics.CheckSumFiveNumbers;
-
 public class CheckSumFiveNumbersTest {
 
 	@Test
