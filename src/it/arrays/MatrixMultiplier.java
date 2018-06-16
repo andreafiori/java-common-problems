@@ -20,7 +20,8 @@ public class MatrixMultiplier {
 
 		if (columnsOfFirstMatrix != rowsOfSecondMatrix) {
 			throw new IllegalArgumentException(String.format(
-					"Can't multiply matrices, columns of first matrix" + " %d is not equal to rows of second matrix %d",
+					"Can't multiply matrices, columns of first matrix" + 
+					" %d is not equal to rows of second matrix %d",
 					columnsOfFirstMatrix, rowsOfSecondMatrix)
 			);
 		}
@@ -38,7 +39,7 @@ public class MatrixMultiplier {
 				product[i][j] = sum;
 			}
 		}
-		
+
 		return product;
 	}
 

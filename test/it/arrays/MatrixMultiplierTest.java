@@ -2,13 +2,21 @@ package it.arrays;
 
 import static org.junit.Assert.assertTrue;
 
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.ExpectedException;
 
 import java.util.Arrays;
 
 import it.arrays.MatrixMultiplier;
 
+/**
+ * Exception testing: https://github.com/junit-team/junit4/wiki/exception-testing
+ */
 public class MatrixMultiplierTest {
+	
+	@Rule
+	public ExpectedException thrown = ExpectedException.none();
 
 	@Test
 	public void testProductThrowsException() throws IllegalArgumentException {
@@ -46,6 +54,24 @@ public class MatrixMultiplierTest {
 		int[][] resultMatrix = MatrixMultiplier.product(aMatrix, bMatrix);
 
 		assertTrue( Arrays.deepEquals(resultMatrix, expectedMatrix) );
+	}
+	
+	@Test
+	public void testIllegalArgumentException() throws IllegalArgumentException {
+		int[][] aMatrix = {
+			{ 1 },
+			{ 3, 4 }
+		};
+		
+		int [][] bMatrix = {
+			{ 5, 6 },
+			{ 7, 8 },
+			{ 9, 10 },
+		};
+		
+		thrown.expect( IllegalArgumentException.class );
+
+		MatrixMultiplier.product(aMatrix, bMatrix);
 	}
 
 }
