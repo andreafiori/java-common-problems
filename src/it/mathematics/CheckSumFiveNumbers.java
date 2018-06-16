@@ -13,8 +13,7 @@ package it.mathematics;
 public class CheckSumFiveNumbers {
 
 	/**
-	 * Brute Force Method:
-	 * The idea is to run a loop from i = 0 to n – 4, check if (i + i+1 + i+2 + i+3 + i+4) is equal to n. Also, check if n is positive or negative and accordingly increment or decrement i by 1.
+	 * Brute Force Method
 	 * 
 	 * @param n
 	 * @return a list with valid numbers or a list with -1
