@@ -1,9 +1,11 @@
-*.class
-
-# Package Files #
-*.war
-*.ear
+# Eclipse
+.classpath
 .project
-.settings
-/bin/
-/build/
+.settings/
+
+# Maven
+log/
+target/
+
+# Mac
+.DS_Store

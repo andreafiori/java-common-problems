@@ -1,8 +1,18 @@
 language: java
-addons:
-  apt:
-    packages:
-      - openjdk-6-jdk
-jdk:
-  - oraclejdk9
-  - oraclejdk8
+jdk: oraclejdk8
+sudo: false  # No need to run this as root
+
+# For maven projects, the default installation phase can be skipped
+install: true
+
+# The branches to build.
+# Can either include or exclude branches.
+# Here only changes to the master branch will be build.
+branches:
+  only:
+    - master
+
+# Cache the maven repository to not need to download all dependencies on every build.
+cache:
+  directories:
+    - "$HOME/.m2/repository"
