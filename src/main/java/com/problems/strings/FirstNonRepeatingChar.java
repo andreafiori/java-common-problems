@@ -20,8 +20,8 @@ public class FirstNonRepeatingChar {
      *                    value 1, that's your first non-repeated character,
      *                    as LinkedHashMap maintains insertion order.
      *                    
-	 * @param str
-	 * @return
+	 * @param str string for non repeat char
+	 * @return Boolean
 	 */
     public static char getFirstNonRepeatedChar(String str) {
         Map<Character,Integer> counts = new LinkedHashMap<Character, Integer>(str.length());

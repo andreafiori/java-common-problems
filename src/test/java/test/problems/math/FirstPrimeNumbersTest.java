@@ -1,6 +1,8 @@
 package test.problems.math;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertFalse;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -24,4 +26,13 @@ public class FirstPrimeNumbersTest {
 		);
 	}
 
+	@Test
+	public void testIsPrimeAsTrue() {
+		assertTrue( FirstPrimeNumbers.isPrime(11) );
+	}
+
+	@Test
+	public void testIsPrimeAsFalse() {
+		assertFalse( FirstPrimeNumbers.isPrime(12) );
+	}
 }

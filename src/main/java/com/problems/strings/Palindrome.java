@@ -4,7 +4,7 @@ public class Palindrome {
 	/**
 	 * Check if number is palindrome or not
 	 * 
-	 * @param number
+	 * @param number to check
 	 * @return boolean
 	 */
 	public static boolean isPalindromeNumber(int number) {
@@ -28,7 +28,7 @@ public class Palindrome {
 	/**
 	 * Check if a string is palindrome or not
 	 * 
-	 * @param str
+	 * @param str String to check
 	 * @return boolean
 	 */
 	public static boolean isPalindromeString(String str) {

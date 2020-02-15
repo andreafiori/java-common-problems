@@ -3,17 +3,15 @@ package com.problems.strings;
 import java.util.Arrays;
 
 /**
- * Java program - String Anagram Example. This program checks if two Strings are
- * anagrams or not
- * 
+ * Checks if two Strings are anagrams or not
  */
 public class AnagramCheck {
 	/**
 	 * One way to find if two Strings are anagram in Java.
 	 * This method assumes both arguments are not null and in lowercase.
 	 *
-	 * @param word
-	 * @param anagram
+	 * @param word input word
+	 * @param anagram word to compare
 	 * @return true, if both String are anagram
 	 */
 	public static boolean isAnagram(String word, String anagram) {
@@ -39,8 +37,8 @@ public class AnagramCheck {
 	 * Another way to check if two Strings are anagram or not in Java This method
 	 * assumes that both word and anagram are not null and lowercase
 	 *
-	 * @param word
-	 * @param anagram
+	 * @param word input word
+	 * @param anagram word to compare
 	 * @return true, if both Strings are anagram.
 	 */
 	public static boolean iAnagram(String word, String anagram) {
@@ -55,9 +53,9 @@ public class AnagramCheck {
 	/**
 	 * Check Anagram
 	 * 
-	 * @param first
-	 * @param second
-	 * @return tru
+	 * @param first main word to check
+	 * @param second word to compare
+	 * @return Boolean
 	 */
 	public static boolean checkAnagram(String first, String second) {
 		char[] characters = first.toCharArray();
@@ -72,6 +70,6 @@ public class AnagramCheck {
 			}
 		}
 
-		return sbSecond.length() == 0 ? true : false;
+		return sbSecond.length() == 0;
 	}
 }

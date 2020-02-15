@@ -1,10 +1,11 @@
 package com.problems.strings;
 
-public class ReverseString {
+public class ReverseString
+{
 	/**
 	 * Reverse a string
 	 * 
-	 * @param source
+	 * @param source String
 	 * @return the reversed string
 	 */
 	public static String reverse(String source) {
@@ -23,7 +24,7 @@ public class ReverseString {
 	/**
 	 * Replace a String in place
 	 * 
-	 * @param input
+	 * @param input String
 	 * @return the reversed string
 	 */
 	public static String inPlaceReverse(final String input) {
