@@ -186,7 +186,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements ITree<T> {
      * 
      * @param node Root of tree to rotate right.
      */
-    private void rotateRight(Node<T> node) {
+    public void rotateRight(Node<T> node) {
         Node<T> parent = node.parent;
         Node<T> lesser = node.lesser;
         Node<T> greater = lesser.greater;
@@ -223,7 +223,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements ITree<T> {
      * @return Node<T> which represents the greatest node in the startingNode
      *         sub-tree or NULL if startingNode has no greater children.
      */
-    private Node<T> getGreatest(Node<T> startingNode) {
+    public Node<T> getGreatest(Node<T> startingNode) {
         if (startingNode == null)
             return null;
 
@@ -310,7 +310,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements ITree<T> {
      * @return Node<T> which can be used to replace nodeToRemoved. nodeToRemoved
      *         should NOT be NULL.
      */
-    private Node<T> getReplacementNode(Node<T> nodeToRemoved) {
+    public Node<T> getReplacementNode(Node<T> nodeToRemoved) {
         Node<T> replacement = null;
         if (nodeToRemoved.greater != null && nodeToRemoved.lesser != null) {
             // Two children.
@@ -346,7 +346,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements ITree<T> {
      *            Node<T> to replace nodeToRemoved in the tree. replacementNode
      *            can be NULL.
      */
-    private void replaceNodeWithNode(Node<T> nodeToRemoved, Node<T> replacementNode) {
+    public void replaceNodeWithNode(Node<T> nodeToRemoved, Node<T> replacementNode) {
         if (replacementNode != null) {
             // Save for later
             Node<T> replacementNodeLesser = replacementNode.lesser;

@@ -22,8 +22,8 @@ import java.util.List;
 @SuppressWarnings("unchecked")
 public class RedBlackTree<T extends Comparable<T>> extends BinarySearchTree<T> {
 
-    protected static final boolean BLACK = false;
-    protected static final boolean RED = true;
+    private static final boolean BLACK = false;
+    private static final boolean RED = true;
 
     /**
      * Default constructor.
@@ -95,9 +95,7 @@ public class RedBlackTree<T extends Comparable<T>> extends BinarySearchTree<T> {
     /**
      * Post insertion balancing algorithm.
      * 
-     * @param begin
-     *            to begin balancing at.
-     * @return True if balanced.
+     * @param begin to begin balancing at.
      */
     private void balanceAfterInsert(RedBlackNode<T> begin) {
         RedBlackNode<T> node = begin;
@@ -460,7 +458,7 @@ public class RedBlackTree<T extends Comparable<T>> extends BinarySearchTree<T> {
 
     protected static class RedBlackNode<T extends Comparable<T>> extends Node<T> {
 
-        protected boolean color = BLACK;
+        private boolean color = BLACK;
 
         protected RedBlackNode(Node<T> parent, T id, boolean color) {
             super(parent, id);
@@ -488,7 +486,7 @@ public class RedBlackTree<T extends Comparable<T>> extends BinarySearchTree<T> {
         }
 
         protected RedBlackNode<T> getSibling() {
-            if (parent == null) 
+            if (parent == null)
                 return null;
             if (parent.lesser == this) {
                 return (RedBlackNode<T>) parent.greater;
@@ -500,9 +498,9 @@ public class RedBlackTree<T extends Comparable<T>> extends BinarySearchTree<T> {
         }
 
         protected boolean isLeaf() {
-            if (lesser != null) 
+            if (lesser != null)
                 return false;
-            if (greater != null) 
+            if (greater != null)
                 return false;
             return true;
         }
