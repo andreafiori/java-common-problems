@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57abe933-0e59-4d3b-b45f-05e1973fa3fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/MatrixMultiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/RotateSquareMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/CheckOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/CheckSumFiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/FirstPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/MinimumPositiveIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/math/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/FindDuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/MatrixMultiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/ReverseArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/ReverseArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/arrays/RotateSquareMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/main/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/main/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/ArmstrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/CheckOddEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/CheckSumFiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/FirstPrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/MinimumPositiveIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/math/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/strings/AnagramCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/strings/FindDuplicateCharacters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/strings/FirstNonRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/FirstNonRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/strings/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/problems/strings/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/AssociativeArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/AssociativeArraysTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/BubbleSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/BubbleSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/InsertionSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/InsertionSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/MatrixMultiplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/MatrixMultiplierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/QuickSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/QuickSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/RemoveDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/RemoveDuplicatesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/ReverseArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/ReverseArraysTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/arrays/RotateSquareMatrixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/arrays/RotateSquareMatrixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/main/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/main/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/ArmstrongNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/ArmstrongNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/CheckOddEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/CheckOddEvenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/CheckSumFiveNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/CheckSumFiveNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FactorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/FirstPrimeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FirstPrimeNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/MinimumPairPositiveIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/MinimumPairPositiveIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/math/ReverseNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/math/ReverseNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/strings/CheckAnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/strings/CheckAnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/strings/FindDuplicateCharactersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/strings/FindDuplicateCharactersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/strings/FirstNonRepeatingCharTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/strings/FirstNonRepeatingCharTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/strings/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/strings/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/problems/strings/ReverseStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/strings/ReverseStringTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/BinaryHeapTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="91" column="53" lean-forward="true" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>grap</find>
+      <find>depre</find>
+      <find>com.data_structures.test.</find>
+      <find>IQueue</find>
+      <find>com.jwetherell.algorithms.data_structures.test.common.</find>
+      <find>com.jwetherell.algorithms.data_structures.test.</find>
+      <find>com.jwetherell.algorithms.data_structures</find>
+      <find>Assert.</find>
+      <find>com.jwetherell.algorithms.data_structures.</find>
+      <find>BinaryHeap.BinaryHeapTree&lt;Integer&gt; tHeapNull = new BinaryHeap.BinaryHeapTree&lt;Integer&gt;(BinaryHeap.Type.MIN);</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.algorithms.data_structures</replace>
+      <replace>test.com.data_structures.</replace>
+      <replace>test.data_structures.</replace>
+      <replace>test.data_structures.common.</replace>
+      <replace>com.data_structures.</replace>
+      <replace>com.data_structures.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/RadixTrie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/SkipListMap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/AllTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/Utils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/IteratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/AVLTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/TreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/HeapTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/BinarySearchTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/BTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/CompactSuffixTrieTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/DisjointSetTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/HashArrayMappedTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/GraphTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/ImplicitKeyTreapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/IntervalSumTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/IntervalTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/LCPArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/ListTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/TrieMapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/TreeMapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/TernarySearchTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SuffixTrieTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/common/SuffixTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SuffixTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/FenwickTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/TrieTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/HashMapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/KdTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/LowestCommonAncestorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/TreapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SuffixArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/StackTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SegmentTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SkipListTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SplayTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SkipListMapTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/RedBlackTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/MatrixTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/QuadTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/PatriciaTreeTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/RadixTrieTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/QueueTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/BinaryHeapTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2309" />
+    <option name="y" value="93" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structures" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/test/data_structures" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\eclipse-workspace\CommonProblems\src\test\java\test\data_structures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CommonProblemsTest">
+    <configuration name="CommonProblemsTest" type="JUnit" factoryName="JUnit">
+      <module name="com.problems.main" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestStringAfterCharacterDeleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.problems.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.algorithms.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.algorithms.strings" />
+      <option name="MAIN_CLASS_NAME" value="test.algorithms.strings.LongestStringAfterCharacterDeleteTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <dir value="$PROJECT_DIR$/src/test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LongestStringAfterCharacterDeleteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57abe933-0e59-4d3b-b45f-05e1973fa3fe" name="Default Changelist" comment="" />
+      <created>1580335961774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580335961774</updated>
+      <workItem from="1580335967319" duration="1301000" />
+      <workItem from="1580417130157" duration="650000" />
+      <workItem from="1580558609765" duration="6010000" />
+      <workItem from="1580846593006" duration="889000" />
+      <workItem from="1581165554490" duration="1541000" />
+      <workItem from="1581771964798" duration="2184000" />
+      <workItem from="1582410667116" duration="49000" />
+      <workItem from="1582410778219" duration="4029000" />
+      <workItem from="1582460745457" duration="18020000" />
+      <workItem from="1582979003637" duration="1643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 15h 15m 54s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 15h 57m 49s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 16h 04m 06s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 16h 05m 24s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 16h 05m 57s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 16h 07m 14s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 17h 23m 44s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 18h 56m 02s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.23 at 20h 37m 40s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.02.29 at 16h 14m 23s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36316000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="85" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22087745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.38134205" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32569557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/SkipListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/Utils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/IteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/AllTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/TreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1832">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/HeapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/BinarySearchTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="102" column="40" lean-forward="true" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/CompactSuffixTrieTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/BTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/DisjointSetTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/HashArrayMappedTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/ImplicitKeyTreapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/IntervalSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/LCPArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/GraphTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="49" column="32" lean-forward="true" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/IntervalTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1234#1269#0" expanded="true" />
+            <element signature="e#3796#3831#0" expanded="true" />
+            <element signature="e#6455#6490#0" expanded="true" />
+            <element signature="e#8027#8062#0" expanded="true" />
+            <element signature="e#8942#8977#0" expanded="true" />
+            <element signature="e#9628#9663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/TrieMapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/TernarySearchTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#568#576#0" expanded="true" />
+            <element signature="e#941#949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/TreeMapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/common/SuffixTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SuffixTrieTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SuffixTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/ListTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/FenwickTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#452#492#0" expanded="true" />
+            <element signature="e#1851#1891#0" expanded="true" />
+            <element signature="e#2880#2920#0" expanded="true" />
+            <element signature="e#4613#4653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/HashMapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/TrieTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/KdTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#374#384#0" expanded="true" />
+            <element signature="e#828#838#0" expanded="true" />
+            <element signature="e#1841#1851#0" expanded="true" />
+            <element signature="e#2295#2305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/LowestCommonAncestorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/TreapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/StackTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SuffixArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SegmentTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#605#636#0" expanded="true" />
+            <element signature="e#1747#1778#0" expanded="true" />
+            <element signature="e#2514#2558#0" expanded="true" />
+            <element signature="e#4081#4125#0" expanded="true" />
+            <element signature="e#5287#5331#0" expanded="true" />
+            <element signature="e#6743#6787#0" expanded="true" />
+            <element signature="e#7947#7987#0" expanded="true" />
+            <element signature="e#9354#9394#0" expanded="true" />
+            <element signature="e#10639#10678#0" expanded="true" />
+            <element signature="e#11922#11961#0" expanded="true" />
+            <element signature="e#13481#13520#0" expanded="true" />
+            <element signature="e#14801#14840#0" expanded="true" />
+            <element signature="e#16268#16307#0" expanded="true" />
+            <element signature="e#16802#16841#0" expanded="true" />
+            <element signature="e#17948#17987#0" expanded="true" />
+            <element signature="e#18573#18612#0" expanded="true" />
+            <element signature="e#18979#19018#0" expanded="true" />
+            <element signature="e#19361#19400#0" expanded="true" />
+            <element signature="e#19769#19808#0" expanded="true" />
+            <element signature="e#20393#20432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SkipListTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SplayTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/RedBlackTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/SkipListMapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/MatrixTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-782">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/QuadTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#403#0" expanded="true" />
+            <element signature="e#500#518#0" expanded="true" />
+            <element signature="e#1139#1157#0" expanded="true" />
+            <element signature="e#2234#2252#0" expanded="true" />
+            <element signature="e#3028#3061#0" expanded="true" />
+            <element signature="e#4122#4155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/PatriciaTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/QueueTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/RadixTrieTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/AVLTreeTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="50" column="54" lean-forward="true" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/data_structures/BinaryHeapTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="91" column="53" lean-forward="true" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>com.problems.main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
