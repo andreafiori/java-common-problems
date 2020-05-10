@@ -1,4 +1,4 @@
-package com.data_structures;;
+package com.data_structures;
 
 import java.util.Arrays;
 
@@ -21,8 +21,8 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
 
     private INodeCreator creator = null;
     protected Node root = null;
-    private static final boolean BLACK = false; // non-terminating
-    private static final boolean WHITE = true; // terminating
+    public static final boolean BLACK = false; // non-terminating
+    public static final boolean WHITE = true; // terminating
 
     public PatriciaTrie() { 
         this.creator = new INodeCreator() {
@@ -39,7 +39,7 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
     /**
      * Constructor with external Node creator.
      */
-    private PatriciaTrie(INodeCreator creator) {
+    public PatriciaTrie(INodeCreator creator) {
         this.creator = creator;
     }
 
@@ -61,7 +61,7 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
      * @return Node which represents the sequence in the trie or NULL if the
      *         sequence already exists.
      */
-    protected Node addSequence(C seq) {
+    private Node addSequence(C seq) {
         if (root == null)
             root = this.creator.createNewNode(null, null, BLACK);
 
@@ -610,7 +610,7 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
             private PatriciaTrie.Node lastNode = null;
             private java.util.Iterator<java.util.Map.Entry<Node, String>> iterator = null;
 
-            protected PatriciaTrieIterator(PatriciaTrie<C> trie) {
+            private PatriciaTrieIterator(PatriciaTrie<C> trie) {
                 this.trie = trie;
                 java.util.Map<PatriciaTrie.Node,String> map = new java.util.LinkedHashMap<PatriciaTrie.Node,String>();
                 if (this.trie.root!=null)
