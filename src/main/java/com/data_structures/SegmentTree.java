@@ -44,10 +44,8 @@ public abstract class SegmentTree<D extends SegmentTree.Data> {
     /**
      * Range query
      * 
-     * @param start
-     *            start of range (inclusive)
-     * @param end
-     *            end of range to (inclusive)
+     * @param start start of range (inclusive)
+     * @param end end of range to (inclusive)
      * @return data for range.
      */
     public abstract D query(long start, long end);
@@ -70,8 +68,7 @@ public abstract class SegmentTree<D extends SegmentTree.Data> {
         /**
          * Constructor for data at index
          * 
-         * @param index
-         *            of data.
+         * @param index of data.
          */
         public Data(long index) {
             this.start = index;
@@ -81,10 +78,8 @@ public abstract class SegmentTree<D extends SegmentTree.Data> {
         /**
          * Constructor for data at range (inclusive)
          * 
-         * @param start
-         *            start of range for data.
-         * @param end
-         *            end of range for data.
+         * @param start start of range for data.
+         * @param end end of range for data.
          */
         public Data(long start, long end) {
             this.start = start;
@@ -102,8 +97,7 @@ public abstract class SegmentTree<D extends SegmentTree.Data> {
         /**
          * Combined this data with the Data parameter
          * 
-         * @param data
-         *            Data to combined
+         * @param data Data to combined
          * @return Data which represents the combination.
          */
         public abstract Data combined(Data data);
@@ -118,10 +112,8 @@ public abstract class SegmentTree<D extends SegmentTree.Data> {
         /**
          * Query inside this data object.
          * 
-         * @param startOfRange
-         *            start of range (inclusive)
-         * @param endOfRange
-         *            end of range (inclusive)
+         * @param startOfRange start of range (inclusive)
+         * @param endOfRange end of range (inclusive)
          * @return Data queried for or NULL if it doesn't match the query.
          */
         public abstract Data query(long startOfRange, long endOfRange);

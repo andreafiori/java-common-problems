@@ -15,7 +15,6 @@ public class Coprimes {
     private Coprimes() { }
 
     /**
-     *
      * Euler's totient function. Because this function is multiplicative such implementation is possible.
      * <p>
      * Time complexity: O(sqrt(n))
@@ -24,8 +23,9 @@ public class Coprimes {
      * @return number of coprimes smaller or equal to n
      */
     public static long getNumberOfCoprimes(long n) {
-        if(n < 1)
+        if(n < 1) {
             return 0;
+        }
         long res = 1;
         for(int i = 2; i*i <= n; i++) {
             int times = 0;
@@ -35,8 +35,9 @@ public class Coprimes {
                 times++;
             }
         }
-        if(n > 1)
+        if(n > 1) {
             res *= n-1;
+        }
         return res;
     }
 }

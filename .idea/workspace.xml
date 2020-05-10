@@ -3,30 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="57abe933-0e59-4d3b-b45f-05e1973fa3fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/CheckOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/CheckSumFiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/FirstPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FirstPrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/MinimumPositiveIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/MinimumPositiveIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/math/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_structures/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_structures/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_structures/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_structures/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/ArmstrongNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ArmstrongNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/BinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/CheckOddEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CheckOddEvenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/CheckSumFiveNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CheckSumFiveNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/FactorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FirstPrimeNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/FirstPrimeNumbersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/FizzBuzzTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/LeapYearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/LeapYearTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/MinimumPairPositiveIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/MinimumPairPositiveIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/algorithms/math/ReverseNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ReverseNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Coprimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Coprimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Exponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Exponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/Slugifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/algorithms/strings/Slugifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/data_structures/SegmentTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/data_structures/SegmentTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,20 +43,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ExponentiationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,20 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SuffixArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/StackTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SegmentTreeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SkipListTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SplayTreeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/SkipListMapTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/RedBlackTreeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/MatrixTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/QuadTreeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/PatriciaTreeTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/RadixTrieTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/QueueTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test/data_structures/BinaryHeapTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/AStar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/BellmanFord.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/BreadthFirstTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/ConnectedComponents.java" />
@@ -132,7 +94,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/PushRelabel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/TopologicalSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/graph/TurboMatching.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/GreatestCommonDivisor.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/test/GCDTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/RamerDouglasPeuckerTest.java" />
@@ -147,7 +108,6 @@
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/LUDecompositionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/LUDecomposition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/data_structures/RedBlackTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Complex.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/data_structures/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/graph/test/Graphs.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/graph/test/TurboMatchingTest.java" />
@@ -156,8 +116,35 @@
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/graph/test/DepthFirstTraversalTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/graph/test/EdmondsKarpTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ExponentiationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Complex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/data_structures/SegmentTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CheckSumFiveNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Coprimes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Distance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Division.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/arrays/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/strings/Slugifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/search/DepthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Exponentiation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.algorithms.main" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -169,8 +156,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2309" />
-    <option name="y" value="93" />
+    <option name="x" value="1272" />
+    <option name="y" value="85" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -182,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,7 +240,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="numbers" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
@@ -271,54 +257,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.problems.main" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CommonProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="mathematics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,14 +350,20 @@
       <workItem from="1582410778219" duration="4029000" />
       <workItem from="1582460745457" duration="18020000" />
       <workItem from="1582979003637" duration="1856000" />
-      <workItem from="1583059653465" duration="6552000" />
+      <workItem from="1583059653465" duration="8112000" />
+      <workItem from="1583270172064" duration="1452000" />
+      <workItem from="1585412250333" duration="645000" />
+      <workItem from="1585775471366" duration="362000" />
+      <workItem from="1585847090298" duration="5582000" />
+      <workItem from="1585917250924" duration="2976000" />
+      <workItem from="1586544220385" duration="2064000" />
+      <workItem from="1586611381089" duration="378000" />
+      <workItem from="1588352260918" duration="1054000" />
+      <workItem from="1589111646123" duration="676000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CommonProblemsTest - 2020.02.23 at 15h 15m 54s.xml">
-      <configuration name="CommonProblemsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CommonProblemsTest - 2020.02.23 at 15h 57m 49s.xml">
       <configuration name="CommonProblemsTest" configurationId="JUnit" />
     </history-entry>
@@ -442,9 +391,12 @@
     <history-entry file="CommonProblemsTest - 2020.02.29 at 16h 14m 23s.xml">
       <configuration name="CommonProblemsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CommonProblemsTest - 2020.03.01 at 17h 17m 29s.xml">
+      <configuration name="CommonProblemsTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43081000" />
+    <option name="totallyTimeSpent" value="59830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,9 +409,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="85" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22390318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,13 +422,13 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.38134205" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49924356" weight="0.38134205" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.38134205" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.32569557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
@@ -485,7 +436,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -498,163 +449,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/graph/TurboMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding>
-            <element signature="e#1274#1308#0" expanded="true" />
-            <element signature="e#1861#1878#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/main/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckOddEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FirstPrimeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/MinimumPositiveIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Coprimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Distance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Exponentiation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Integers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Longs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/GreatestCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CoprimesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/DiscreteLogarithmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/MathematicsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
@@ -669,13 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ArmstrongNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/BinarySearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -687,13 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CheckSumFiveNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -742,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Complex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Multiplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -756,13 +529,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/AVLTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="145" column="15" selection-start-line="145" selection-start-column="15" selection-end-line="145" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -789,13 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-68">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FastFourierTransform.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -930,10 +689,212 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ExponentiationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="211">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/numbers/Complex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/SplayTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/PatriciaTrie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/SegmentTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1073#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/ArmstrongNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/algorithms/mathematics/CheckSumFiveNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckSumFiveNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Coprimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/DiscreteLogarithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/FastFourierTransform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="42" column="28" lean-forward="true" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/arrays/MatrixMultiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/arrays/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/strings/Rotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-899">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/strings/Slugifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/data_structures/BinaryHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/search/DepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/ArmstrongNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/Exponentiation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithms/mathematics/CheckOddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
           </folding>
         </state>
       </provider>

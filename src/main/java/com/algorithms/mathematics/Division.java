@@ -2,12 +2,24 @@ package com.algorithms.mathematics;
 
 public class Division {
 
-    public static final long division(int a, int b) {
-        long result = ((long) a) / ((long) b);
-        return result;
+    /**
+     * Division between 2 integer
+     *
+     * @param a first number
+     * @param b second number
+     * @return division result with long casting for input args
+     */
+    public static long division(int a, int b) {
+        return ((long) a) / ((long) b);
     }
 
-    public static final long divisionUsingLoop(int a, int b) {
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
+    public static long divisionUsingLoop(int a, int b) {
         int absA = Math.abs(a);
         int absB = Math.abs(b);
 
@@ -21,13 +33,19 @@ public class Division {
         return (a > 0 && b > 0 || a < 0 && b < 0) ? result : -result;
     }
 
-    public static final long divisionUsingRecursion(int a, int b) {
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
+    public static long divisionUsingRecursion(int a, int b) {
         int absA = Math.abs(a);
         int absB = Math.abs(b);
 
         long result = 1;
         int diff = absA - absB;
-        if (diff > 0 && diff <= 1) {
+        if (diff == 1) {
             return result;
         } else if (diff < 0) {
             return 0;
@@ -37,7 +55,13 @@ public class Division {
         return (a > 0 && b > 0 || a < 0 && b < 0) ? result : -result;
     }
 
-    public static final long divisionUsingMultiplication(int a, int b) {
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
+    public static long divisionUsingMultiplication(int a, int b) {
         int absA = Math.abs(a);
         int absB = Math.abs(b);
 
@@ -49,11 +73,18 @@ public class Division {
         }
         absA -= absB << (counter - 1);
         long result = (long) Math.pow(2, counter - 1);
-        if (absB <= absA)
+        if (absB <= absA) {
             result += divisionUsingMultiplication(absA, absB);
+        }
         return (a > 0 && b > 0 || a < 0 && b < 0) ? result : -result;
     }
 
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
     public static final long divisionUsingShift(int a, int b) {
         int absA = Math.abs(a);
         int absB = Math.abs(b);
@@ -75,7 +106,13 @@ public class Division {
         return (a > 0 && b > 0 || a < 0 && b < 0) ? result : -result;
     }
 
-    public static final long divisionUsingLogs(int a, int b) {
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
+    public static long divisionUsingLogs(int a, int b) {
         long absA = Math.abs(a);
         long absB = Math.abs(b);
         double logBase10A = Math.log10(absA);

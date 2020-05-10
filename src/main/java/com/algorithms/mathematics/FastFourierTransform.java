@@ -7,9 +7,8 @@ import com.algorithms.numbers.Complex;
  * Fourier analysis converts a signal from its original domain (often time or space) to a representation in the frequency 
  * domain and vice versa. An FFT rapidly computes such transformations by factorizing the DFT matrix into a product of 
  * sparse (mostly zero) factors.
- * <p>
+ *
  * @see <a href="https://en.wikipedia.org/wiki/Fast_Fourier_transform">Fast Fourier Transform (Wikipedia)</a>
- * <br>
  * @author Mateusz Cianciara <e.cianciara@gmail.com>
  * @author Justin Wetherell <phishman3579@gmail.com>
  */

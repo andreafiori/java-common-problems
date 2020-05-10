@@ -27,11 +27,13 @@ public class DiscreteLogarithm {
         if (x == 0)
             return 1;
 
-        if (x == 1)
+        if (x == 1) {
             return a % p;
+        }
 
-        if (x % 2 != 0)
+        if (x % 2 != 0) {
             return (a * pow(a, x - 1, p)) % p;
+        }
 
         final long temp = pow(a, x / 2, p) % p;
         return (temp * temp) % p;

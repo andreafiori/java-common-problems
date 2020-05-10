@@ -10,7 +10,7 @@ public class Slugifier
     /**
      * Transform string in slug format
      * 
-     * @param input
+     * @param input string to slugify
      * @return String
      */
     public static String toSlug(String input) {

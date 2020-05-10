@@ -5,7 +5,7 @@ public class FizzBuzz {
     /**
      * Given a number, get the related FizzBuzz value as string
      * 
-     * @param i
+     * @param i integer
      * @return String
      */
     public static String getSequence(Integer i) {

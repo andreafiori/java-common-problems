@@ -4,7 +4,7 @@ public class Factorial {
     /**
      * Find factorial of a number using recursion
      * 
-     * @param number
+     * @param number int
      * @return factorial of number
      */
     public static int factorial(int number) {
@@ -17,7 +17,7 @@ public class Factorial {
     /**
      * Calculate factorial using while loop or iteration
      * 
-     * @param number
+     * @param number int
      * @return factorial of number
      */
     public static int fact(int number) {

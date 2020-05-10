@@ -15,12 +15,12 @@ package com.algorithms.mathematics;
 public class BinarySearch {
     /**
      * Check if a number is in the array list
-     * 
-     * @param a
-     * @param key
-     * @return
+     *
+     * @param a int[]
+     * @param key int
+     * @return int
      */
-    public static int checkElement(int a[], int key) {
+    public static int checkElement(int[] a, int key) {
         int start = 0;
         int end = a.length - 1;
 

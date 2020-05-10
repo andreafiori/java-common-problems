@@ -15,7 +15,7 @@ public class CheckSumFiveNumbers {
     /**
      * Brute Force Method
      * 
-     * @param n
+     * @param n input number
      * @return a list with valid numbers or a list with -1
      */
     public static int[] bruteForce(int n) {
@@ -53,7 +53,7 @@ public class CheckSumFiveNumbers {
     /**
      * Efficient approach
      * 
-     * @param n
+     * @param n input number
      * @return
      */
     public static int[] efficientApproach(int n) {

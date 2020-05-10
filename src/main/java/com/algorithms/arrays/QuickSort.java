@@ -8,7 +8,7 @@ package com.algorithms.arrays;
  */
 public class QuickSort {
 
-    private int input[];
+    private int[] input;
     private int length;
 
     public void sort(int[] numbers) {
@@ -27,8 +27,8 @@ public class QuickSort {
     /**
      * This method implements in-place quicksort algorithm recursively.
      * 
-     * @param low
-     * @param high
+     * @param low number
+     * @param high number
      */
     private void quickSort(int low, int high) {
         int i = low;
@@ -39,7 +39,7 @@ public class QuickSort {
 
         // Divide into two arrays
         while (i <= j) {
-            /**
+            /*
              * As shown in above image, In each iteration, we will identify a number from
              * left side which is greater then the pivot value, and a number from right side
              * which is less then the pivot value. Once search is complete, we can swap both
@@ -72,8 +72,8 @@ public class QuickSort {
     /**
      * Swap array elements
      * 
-     * @param i
-     * @param j
+     * @param i number
+     * @param j number
      * 
      * @return input
      */

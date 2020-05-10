@@ -7,7 +7,7 @@ public class Fibonacci {
     /**
      * Calculate the Fibonacci number of the given integer.
      *
-     * @param n
+     * @param n int
      * @return Fibonacci number.
      * @throws IllegalArgumentException if n is < 0.
      */
@@ -24,7 +24,7 @@ public class Fibonacci {
     /**
      * Check if number belongs to Fibonacci sequence
      * 
-     * @param n
+     * @param n int
      * @return boolean
      */
     public static boolean isOnFibonacciSequence(int n) {

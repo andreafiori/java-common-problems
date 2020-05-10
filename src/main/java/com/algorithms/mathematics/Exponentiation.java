@@ -22,6 +22,13 @@ package com.algorithms.mathematics;
  */
 public class Exponentiation {
 
+    /**
+     * Rescursive exponentiation
+     *
+     * @param base int
+     * @param exponent int
+     * @return int
+     */
     public static int recursiveExponentiation(int base, int exponent) {
         if (exponent == 0)
             return 1;
@@ -31,6 +38,13 @@ public class Exponentiation {
         return recursiveExponentiation(base, exponent - 1) * base;
     }
 
+    /**
+     * Fast rescursive exponentiation
+     *
+     * @param base int
+     * @param exponent int
+     * @return int
+     */
     public static int fastRecursiveExponentiation(int base, int exponent) {
         if (exponent == 0)
             return 1;
@@ -45,6 +59,14 @@ public class Exponentiation {
 
     }
 
+    /**
+     * Fast rescursive exponentiation module
+     *
+     * @param base int
+     * @param exponent int
+     * @param mod int
+     * @return int
+     */
     public static int fastRecursiveExponentiationModulo(int base, int exponent, int mod) {
         if (exponent == 0)
             return 1;

@@ -19,10 +19,10 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
 
     private int size = 0;
 
-    protected INodeCreator creator = null;
+    private INodeCreator creator = null;
     protected Node root = null;
-    protected static final boolean BLACK = false; // non-terminating
-    protected static final boolean WHITE = true; // terminating
+    private static final boolean BLACK = false; // non-terminating
+    private static final boolean WHITE = true; // terminating
 
     public PatriciaTrie() { 
         this.creator = new INodeCreator() {
@@ -39,7 +39,7 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
     /**
      * Constructor with external Node creator.
      */
-    public PatriciaTrie(INodeCreator creator) {
+    private PatriciaTrie(INodeCreator creator) {
         this.creator = creator;
     }
 

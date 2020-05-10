@@ -3,12 +3,12 @@ package com.algorithms.mathematics;
 /**
  * Armstrong number
  * <a href="https://en.wikipedia.org/wiki/Narcissistic_number">Armstrong number Wiki</a>
- * 
+ *
  */
 public class ArmstrongNumber {
     /**
      * Check if the number is an Armstrong number
-     * 
+     *
      * @param n number to test
      * @return boolean
      */
@@ -24,7 +24,7 @@ public class ArmstrongNumber {
             n = n / 10;
             c = c + (a * a * a);
         }
-        
+
         return (temp == c);
     }
 }

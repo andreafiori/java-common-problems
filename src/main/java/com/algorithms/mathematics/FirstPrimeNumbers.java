@@ -47,8 +47,8 @@ public class FirstPrimeNumbers {
     /**
      * Check if a number is prime
      * 
-     * @param n
-     * @return
+     * @param n int
+     * @return boolean
      */
     public static boolean isPrime(int n) {  
        if (n <= 1) {
