@@ -61,7 +61,7 @@ public class PatriciaTrie<C extends CharSequence> implements ITree<C> {
      * @return Node which represents the sequence in the trie or NULL if the
      *         sequence already exists.
      */
-    private Node addSequence(C seq) {
+    public Node addSequence(C seq) {
         if (root == null)
             root = this.creator.createNewNode(null, null, BLACK);
 
